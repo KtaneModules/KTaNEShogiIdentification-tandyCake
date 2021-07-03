@@ -1,0 +1,28 @@
+﻿public enum Move
+{
+    UULL,
+    UUL,
+    UU,
+    UUR,
+    UURR,
+    ULL,
+    UL,
+    U,
+    UR,
+    URR,
+    LL,
+    L,
+    none,
+    R,
+    RR,
+    DLL,
+    DL,
+    D,
+    DR,
+    DRR,
+    DDLL,
+    DDL,
+    DD,
+    DDR,
+    DDRR
+}
